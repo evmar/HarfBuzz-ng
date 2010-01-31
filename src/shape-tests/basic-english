@@ -1,0 +1,34 @@
+{
+  "input": "harfbuzz test",
+  "XXX": "font info (name, hash) would go here.",
+  "info": [
+    { "codepoint":75, "mask":0, "cluster":0 },
+    { "codepoint":68, "mask":0, "cluster":1 },
+    { "codepoint":85, "mask":0, "cluster":2 },
+    { "codepoint":73, "mask":0, "cluster":3 },
+    { "codepoint":69, "mask":0, "cluster":4 },
+    { "codepoint":88, "mask":0, "cluster":5 },
+    { "codepoint":93, "mask":0, "cluster":6 },
+    { "codepoint":93, "mask":0, "cluster":7 },
+    { "codepoint":3, "mask":0, "cluster":8 },
+    { "codepoint":87, "mask":0, "cluster":9 },
+    { "codepoint":72, "mask":0, "cluster":10 },
+    { "codepoint":86, "mask":0, "cluster":11 },
+    { "codepoint":87, "mask":0, "cluster":12 }
+  ],
+  "position": [
+    { "x_advance":640, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":576, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":448, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":384, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":640, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":640, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":576, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":576, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":320, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":384, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":576, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":576, "y_advance":0, "x_offset":0, "y_offset":0 },
+    { "x_advance":384, "y_advance":0, "x_offset":0, "y_offset":0 }
+  ]
+}
