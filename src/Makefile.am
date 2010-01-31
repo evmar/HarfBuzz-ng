@@ -92,11 +92,15 @@ libharfbuzz_la_CPPFLAGS = $(HBCFLAGS)
 libharfbuzz_la_LIBADD = $(HBLIBS)
 pkginclude_HEADERS = $(HBHEADERS)
 
-noinst_PROGRAMS = main
+noinst_PROGRAMS = main shape
 
 main_SOURCES = main.cc
 main_CPPFLAGS = $(HBCFLAGS)
 main_LDADD = libharfbuzz.la $(HBLIBS)
+
+shape_SOURCES = shape.c
+shape_CPPFLAGS = $(HBCFLAGS)
+shape_LDADD = libharfbuzz.la $(HBLIBS)
 
 TESTS =
 
